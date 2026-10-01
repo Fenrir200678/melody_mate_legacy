@@ -1,6 +1,16 @@
-# Melody Mate v1.1.0
+# Melody Mate (Legacy v1.1.0)
 
-Melody Mate is a powerful, user-friendly web tool for generating, customizing, and exporting MIDI melodies—no musical background required. Create unique melodies or basslines, shape nearly every detail, and hopefully get inspired by the generated melodies to create your own music.
+> [!WARNING]
+> ### ⚠️ DEPRECATED & NO LONGER MAINTAINED
+> **This legacy version of Melody Mate is deprecated and will not receive further updates.**
+>
+> It has been replaced by the completely rewritten and significantly improved **Melody Mate v2**:
+> 
+> 🚀 **Check out Melody Mate v2 here:** [https://github.com/Fenrir200678/melody_mate](https://github.com/Fenrir200678/melody_mate)
+
+---
+
+Melody Mate (v1) was a web tool for generating, customizing, and exporting MIDI melodies—no musical background required. Create unique melodies or basslines, shape nearly every detail, and get inspired to create your own music.
 
 ---
 
@@ -109,8 +119,8 @@ Melody Mate is a powerful, user-friendly web tool for generating, customizing, a
 ### Installation
 
 ```bash
-git clone https://github.com/Fenrir200678/melody_mate
-cd melody_mate
+git clone https://github.com/Fenrir200678/melody_mate_legacy
+cd melody_mate_legacy
 pnpm install
 ```
 
@@ -132,9 +142,10 @@ The build output will be in the `dist/` directory.
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Status & Roadmap
 
-- **AI-powered models:** Integration of Magenta.js for AI-based melody generation (planned)
+> [!NOTE]
+> All further development and new features (including AI-powered generation models) have moved to [Melody Mate v2](https://github.com/Fenrir200678/melody_mate). This legacy codebase is preserved for archive purposes only.
 
 ## 📜 License
 
